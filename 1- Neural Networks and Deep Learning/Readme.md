@@ -195,6 +195,8 @@ Here are the course summary as its given on the course [link](https://www.course
 
 ### More Derivatives examples
 
+
+
 - `f(a) = a^2`  ==> `d(f(a))/d(a) = 2a`
   - `a = 2`  ==> `f(a) = 4`
   - `a = 2.0001` ==> `f(a) = 4.0004` approx.
@@ -203,7 +205,7 @@ Here are the course summary as its given on the course [link](https://www.course
 - To conclude, Derivative is the slope and slope is different in different points in the function thats why the derivative is a function.
 
 ### Computation graph
-
+**Test**   $(12288,1)$
 - Its a graph that organizes the computation from left to right.
   - ![](Images/02.png)
 
